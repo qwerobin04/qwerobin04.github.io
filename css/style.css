@@ -1059,8 +1059,10 @@ a:hover {
 
 footer {
   text-align: center;
-  color: #fff;
-  padding-bottom: 4rem;
+  color: #000;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #ddd;
 }
 
 footer .copyright {
